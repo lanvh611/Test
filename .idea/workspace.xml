@@ -5,7 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0b76c49e-b130-4c26-93a2-b4e6c4911521" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/HSF302_Slot2_EX1/src/main/resources/view/Test.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HSF302_Slot2_EX1/src/main/java/com/springboot/dao/StudentDAO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HSF302_Slot2_EX1/src/main/java/com/springboot/main/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HSF302_Slot2_EX1/src/main/java/com/springboot/pojo/Student.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,21 +29,21 @@
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "lanvh611"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;lanvh611&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/lanvh611/Test.git",
-    "accountId": "e8b3c4ec-2406-494b-9ebd-57c861033755"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/lanvh611/Test.git&quot;,
+    &quot;accountId&quot;: &quot;e8b3c4ec-2406-494b-9ebd-57c861033755&quot;
   }
-}]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 1
-}]]></component>
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
   <component name="ProjectId" id="3FrTspMDh9sCfspcw4eJFpibTPV" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="1" id="Add" />
@@ -57,11 +59,12 @@
     "git-widget-placeholder": "LanVH",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/FPTU/SU26/HSF/GitTest/.idea"
+    "last_opened_file_path": "C:/FPTU/SU26/HSF/GitTest/HSF302_Slot2_EX1/src/main/java/com"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\FPTU\SU26\HSF\GitTest\HSF302_Slot2_EX1\src\main\java\com" />
       <recent name="C:\FPTU\SU26\HSF\GitTest\.idea" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
