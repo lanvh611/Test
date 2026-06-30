@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0b76c49e-b130-4c26-93a2-b4e6c4911521" name="Changes" comment="Register">
-      <change afterPath="$PROJECT_DIR$/HSF302_Slot2_EX1/src/main/resources/view/Register.html" afterDir="false" />
+    <list default="true" id="0b76c49e-b130-4c26-93a2-b4e6c4911521" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/HSF302_Slot2_EX1/src/main/resources/view/Test.html" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -57,10 +56,14 @@
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "LanVH",
     "ignore.virus.scanning.warn.message": "true",
-    "kotlin-language-version-configured": "true"
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/FPTU/SU26/HSF/GitTest/.idea"
   }
 }]]></component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\FPTU\SU26\HSF\GitTest\.idea" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\FPTU\SU26\HSF\GitTest\HSF302_Slot2_EX1\src\main\resources\view" />
     </key>
@@ -96,12 +99,30 @@
       <option name="project" value="LOCAL" />
       <updated>1782832961807</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="unknow">
+      <option name="closed" value="true" />
+      <created>1782833171421</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1782833171421</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Change Register">
+      <option name="closed" value="true" />
+      <created>1782833191545</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1782833191545</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="login" />
     <MESSAGE value="Register" />
-    <option name="LAST_COMMIT_MESSAGE" value="Register" />
+    <MESSAGE value="unknow" />
+    <MESSAGE value="Change Register" />
+    <option name="LAST_COMMIT_MESSAGE" value="Change Register" />
   </component>
 </project>
